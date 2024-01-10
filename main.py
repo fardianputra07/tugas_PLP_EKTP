@@ -1,10 +1,6 @@
-import sys
 from menu import *
-from PyQt5 import QtCore
-from PyQt5.QtCore import QPropertyAnimation
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtWidgets
 from data_handler import DataHandler
-from ktp import Ui_ktp
 class MyApp(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()

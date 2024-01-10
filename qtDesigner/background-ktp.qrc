@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="back">
+    <file>img/ktp.png</file>
+  </qresource>
+</RCC>
